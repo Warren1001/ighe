@@ -13,6 +13,7 @@ The unique small charm is obtained by cubing 1 stamina potion by itself. It give
 - An Aura of Death. This Aura grants a massive amount of experience gained and instantly kills everything in a wide radius (a couple screens from you) every tick. It also makes you semi-immortal and grants a ton of movement speed and faster cast rate.
 - Teleport. This is not the same Teleport that Sorceress has, though it functions the exact same way.
 - Summon Diablo. This will literally summon Diablo on top of you. This is to streamline the rushing of a new character. This will be explained in more detail below.
+
 The purpose of the charm is for rushing/quest completing. You must toss it on the ground if you plan to use the character outside of the mod. If you try to load the character while it has that charm with the original game or another mod, the game will crash on load (or it just won't let you load that character, don't remember which happens). You will hit level 99 by the time you finish Hell using the rushing method.
 
 How to get a character started:
@@ -33,36 +34,39 @@ New Cube Recipes:
 - For anything that is numerical, counting is done with runes. El Rune is 1. Eld Rune is 2. etc
 
 To add a socket to an item, use the numerical equivalent rune for the number of sockets you want on the item. If the recipe doesn't work, that item can't have that many sockets. Check the item level if you think it should.
-Item + El Rune = Item with 1 Socket
-Item + Eld Rune = Item with 2 Sockets
-...etc
+- Item + El Rune = Item with 1 Socket
+- Item + Eld Rune = Item with 2 Sockets
+- ...etc
 
 In the event you have an item whose item level is too low for sockets or a specific rarity:
-Item + Hel Rune = Item with item level = 99
+- Item + Hel Rune = Item with item level = 99
 
 To change the rarity of an item, use the associated perfect gem color. Since there isn't a gold gem (Unique) and Normal and Superior Items are both white:
-To change the item rarity to Normal: Item + Perfect Skull
-To change the item rarity to Superior: Item + Perfect Diamond
-To change the item rarity to Magic: Item + Perfect Sapphire
-...etc
-To change the item rarity to Unique: Item + Perfect Amethyst
+- Item + Perfect Skull = Item with Normal Quality
+- Item + Perfect Diamond = Item with Superior Quality
+- Item + Perfect Sapphire = Item with Magic Quality
+- ...etc
+- Item + Perfect Amethyst = Item with Unique Quality
+
 If you change an item quality to the same item quality it already has, this will effectively reroll the item.
 
 To change the tier of an item, use a Perfect Ruby.
-Normal Item + Perfect Ruby -> Exceptional Item
-Exceptional Item + Perfect Ruby -> Elite Item
+Normal Item + Perfect Ruby = Exceptional Item
+Exceptional Item + Perfect Ruby = Elite Item
 There is no way to downgrade, D2R doesn't seem to support this. If you need to go down a tier, you'll have to acquire that manually (I use Gambling).
 
 To make an item ethereal:
-Item + Zod Rune = Ethereal Item
+- Item + Zod Rune = Ethereal Item
 
 Cubing a Tome of Town Portal by itself will open the Cow Portal for convenience. The original recipe still exists.
 
 To acquire skiller Grand Charms:
 The numerical order is based on the order of the skill tabs on the skill tree in-game. For example, Cold Spells is the first skill tab on the skill tree in-game for the Sorceress, so Cold Spells = 1. Lightning Spells = 2. etc
-Magic Grand Charm + numerical rune of the skill tree tab order = New Magic Grand Charm with Tab Skill.
-As a Sorceress: Magic Grand Charm + El Rune = New Magic Grand Charm with +1 to Cold Skills
-As an Amazon: Magic Grand Charm + El Rune = New Magic Grand Charm with +1 to Javelin and Spear Skills
+- Magic Grand Charm + numerical rune of the skill tree tab order = New Magic Grand Charm with Tab Skill.
+
+Examples:
+- As a Sorceress: Magic Grand Charm + El Rune = New Magic Grand Charm with +1 to Cold Skills
+- As an Amazon: Magic Grand Charm + El Rune = New Magic Grand Charm with +1 to Javelin and Spear Skills
 
 There is no way currently to easily roll crafted items. I plan to make the recipes refund the materials and allow you to use the crafted item to roll again, but I'm lazy.
 There is no way to acquire specific Rare items or any other Magic items besides blindly rerolling. Consider using an external hero editor for this.
