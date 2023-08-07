@@ -29,7 +29,7 @@ The purpose of the charm is for rushing/quest completing. You must toss it on th
 
 Using an external hero editor makes this process much easier, but if you can't be bothered (some editors don't give you the proper stat values based on your character and level, so I just do it in-game), then there's a way to get to Hell and level 99 very quickly.
 1. Go to Akara and sell one of your scrolls you start with. Buy something worth 1 gold. Sell that. Now you have infinite gold. Buy a Stamina Potion and an El Rune.
-2. Cube the Stamina Potion by itself. This is the unique small charm. Read the section above for more information about it.
+2. Cube the Stamina Potion by itself. This is the unique small charm. Read above for more information about it.
 3. Cube the El Rune by itself. This will open a portal to Andariel. Walk in, walk out, she will die from the portal location, you don't need to get close to her.
 4. Go to Act 2. Cube the Eld Rune by itself. Go in portal. Duriel is dead. Teleport to Tyrael. Go to town and talk to Jerhyn, Meshif, etc.
 5. Go to Act 3. Cube the Tir Rune by itself. Go in portal. Count to three. Teleport on the Hell Gate and go through it.
