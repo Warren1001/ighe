@@ -50,7 +50,7 @@ To add a socket to an item, use the numerical equivalent rune for the number of 
 - ...etc
 
 In the event you have an item whose item level is too low for sockets or a specific rarity:
-- Item + Hel Rune = Item with item level = 99
+- Item + Hel Rune = Item with `item level = 99`
 
 To change the rarity of an item, use the associated perfect gem color. Since there isn't a gold gem (Unique) and Normal and Superior Items are both white:
 - Item + Perfect Skull = Item with Normal Quality
