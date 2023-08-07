@@ -14,7 +14,7 @@ The unique small charm is obtained by cubing 1 stamina potion by itself. It give
 - Teleport. This is not the same Teleport that Sorceress has, though it functions the exact same way.
 - Summon Diablo. This will literally summon Diablo on top of you. This is to streamline the rushing of a new character. This will be explained in more detail below.
 
-The purpose of the charm is for rushing/quest completing. You must toss it on the ground if you plan to use the character outside of the mod. If you try to load the character while it has that charm with the original game or another mod, the game will crash on load (or it just won't let you load that character, don't remember which happens). You will hit level 99 by the time you finish Hell using the rushing method.
+The purpose of the charm is for rushing/quest completing. You must toss it on the ground if you plan to use the character outside of the mod. If you try to load a character that has the charm with the unmodded game or another mod, the game will crash on load (or it just won't let you load that character, don't remember which happens). You will hit level 99 by the time you finish Hell using the rushing method.
 
 ## How to Install
 1. Download as a ZIP. If you don't know how to do this, click Code at the top left of the site. Above the descriptions for the files to the right, there is another green box that says Code. Click it and press Download ZIP.
