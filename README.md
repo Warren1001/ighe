@@ -16,7 +16,8 @@ The unique small charm is obtained by cubing 1 stamina potion by itself. It give
 
 The purpose of the charm is for rushing/quest completing. You must toss it on the ground if you plan to use the character outside of the mod. If you try to load the character while it has that charm with the original game or another mod, the game will crash on load (or it just won't let you load that character, don't remember which happens). You will hit level 99 by the time you finish Hell using the rushing method.
 
-How to get a character started:
+## How to get a character started:
+
 Using an external hero editor makes this process much easier, but if you can't be bothered (some editors don't give you the proper stat values based on your character and level, so I just do it in-game), then there's a way to get to Hell and level 99 very quickly.
 1. Go to Akara and sell one of your scrolls you start with. Buy something worth 1 gold. Sell that. Now you have infinite gold. Buy a Stamina Potion and an El Rune.
 2. Cube the Stamina Potion by itself. This is the unique small charm. Read the section above for more information about it.
@@ -30,8 +31,9 @@ Once you get into Hell, you should be level 99. If you wanted to be a lower leve
 
 Now you use a combination of Gambling, Akara, and the Horadric Cube to get everything you need.
 
-New Cube Recipes:
-- For anything that is numerical, counting is done with runes. El Rune is 1. Eld Rune is 2. etc
+## New Cube Recipes
+
+For anything that is numerical, counting is done with runes. El Rune is 1. Eld Rune is 2. etc
 
 To add a socket to an item, use the numerical equivalent rune for the number of sockets you want on the item. If the recipe doesn't work, that item can't have that many sockets. Check the item level if you think it should.
 - Item + El Rune = Item with 1 Socket
