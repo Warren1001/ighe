@@ -16,7 +16,16 @@ The unique small charm is obtained by cubing 1 stamina potion by itself. It give
 
 The purpose of the charm is for rushing/quest completing. You must toss it on the ground if you plan to use the character outside of the mod. If you try to load the character while it has that charm with the original game or another mod, the game will crash on load (or it just won't let you load that character, don't remember which happens). You will hit level 99 by the time you finish Hell using the rushing method.
 
-## How to get a character started:
+## How to Install
+1. Download as a ZIP. If you don't know how to do this, click Code at the top left of the site. Above the descriptions for the files to the right, there is another green box that says Code. Click it and press Download ZIP.
+2. Navigate to your D2R install.
+3. Navigate to the mods folder. If you do not have one, just create one. Your path should be `{D2R base folder}\mods`.
+4. Extract the contents of the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\ighe\...`.
+5. Go to Battle.net and click the Gear Icon next to Play for D2R, then click Game Settings.
+6. Tick the box that is labeled `Additional command line arguments`.
+7. Paste the following into the text box that shows up: `-mod ighe -txt -enablerespec`. The `-enablerespec` option grants free respecs by Alt + Left Clicking on the stat point allocation buttons in the character screen. If you don't want this, just remove it. There is no way provided by the mod to easily acquire a Token of Absolution.
+
+## How to Get a Character Started
 
 Using an external hero editor makes this process much easier, but if you can't be bothered (some editors don't give you the proper stat values based on your character and level, so I just do it in-game), then there's a way to get to Hell and level 99 very quickly.
 1. Go to Akara and sell one of your scrolls you start with. Buy something worth 1 gold. Sell that. Now you have infinite gold. Buy a Stamina Potion and an El Rune.
