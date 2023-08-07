@@ -71,7 +71,8 @@ To make an item ethereal:
 
 Cubing a Tome of Town Portal by itself will open the Cow Portal for convenience. The original recipe still exists.
 
-To acquire skiller Grand Charms:
+### To acquire skiller Grand Charms:
+
 The numerical order is based on the order of the skill tabs on the skill tree in-game. For example, Cold Spells is the first skill tab on the skill tree in-game for the Sorceress, so Cold Spells = 1. Lightning Spells = 2. etc
 - Magic Grand Charm + numerical rune of the skill tree tab order = New Magic Grand Charm with Tab Skill.
 
