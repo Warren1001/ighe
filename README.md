@@ -10,7 +10,7 @@ I tried my best to establish a pattern for cube recipes, here are the changes:
 - Added 1 unique small charm with hacky stuff on it.
 - You can teleport in town.
 - Unique, set, and runeword items all roll perfectly.
-- Superior modifiers all roll perfectly.
+- Superior affixes all roll perfectly.
   - Automods and affixes on magic, rare, and crafted items do not roll perfectly at the moment.
 
 The unique small charm is obtained by cubing 1 stamina potion by itself. It gives three things:
