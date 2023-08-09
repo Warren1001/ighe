@@ -24,7 +24,7 @@ This mod contains status effect indicators for the Assassin's charge-up skills. 
 - [D2R Modding Discord](https://discord.gg/gEshQt2dRT)
 - [D2R Modding Website](https://www.d2rmodding.com)
 
-If you do not want the status effect indicators, delete the `data/hd/overlays/` and `data/hd/vfx/` directories and their contents.
+If you do not want the status effect indicators, delete the `data/hd/overlays/` and `data/hd/vfx/` directories and their contents. Note that the status effect indicators will also appear for Shadow Warrior/Master as well and follow her around beneath her.
 
 ## How to Install
 1. Download as a ZIP. If you don't know how to do this, click Code at the top left of the site. Above the descriptions for the files to the right, there is another green box that says Code. Click it and press Download ZIP.
