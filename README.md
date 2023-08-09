@@ -5,9 +5,13 @@ I tried my best to establish a pattern for cube recipes, here are the changes:
 - Sell and buy values are drastically modified. Sell values are in the millions and buy values are close to 1.
 - New characters start with a Cube in their inventory. If a brand new character does not start with a Cube, the mod is not installed correctly.
 - Some vendors may sell different items than they usually do, I started work on changing what vendors sell a while back but didn't get too far and don't remember how much I've done.
+- Made more items gamble-able. Some might still be missing.
 - Added a bunch of cube recipes. All original cube recipes are untouched.
 - Added 1 unique small charm with hacky stuff on it.
 - You can teleport in town.
+- Unique, set, and runeword items all roll perfectly.
+- Superior affixes all roll perfectly.
+  - Automods and affixes on magic, rare, and crafted items do not roll perfectly at the moment.
 
 The unique small charm is obtained by cubing 1 stamina potion by itself. It gives three things:
 - An Aura of Death. This Aura grants a massive amount of experience gained and instantly kills everything in a wide radius (a couple screens from you) every tick. It also makes you semi-immortal and grants a ton of movement speed and faster cast rate.
@@ -15,6 +19,12 @@ The unique small charm is obtained by cubing 1 stamina potion by itself. It give
 - Summon Diablo. This will literally summon Diablo on top of you. This is to streamline the rushing of a new character. This will be explained in more detail below.
 
 The purpose of the charm is for rushing/quest completing. You must toss it on the ground if you plan to use the character outside of the mod. If you try to load a character that has the charm with the unmodded game or another mod, the game will crash on load (or it just won't let you load that character, don't remember which happens). You will hit level 99 by the time you finish Hell using the rushing method.
+
+This mod contains status effect indicators for the Assassin's charge-up skills. They were made by Bonesy, taken from his D2RLaunch application (which has some other cool stuff, check it out). I edited the textures slightly and changed the order of the icons for this mod. Full credits to him:
+- [D2R Modding Discord](https://discord.gg/gEshQt2dRT)
+- [D2R Modding Website](https://www.d2rmodding.com)
+
+If you do not want the status effect indicators, delete the `data/hd/overlays/` and `data/hd/vfx/` directories and their contents. Note that the status effect indicators will also appear for Shadow Warrior/Master as well and follow her around beneath her.
 
 ## How to Install
 1. Download as a ZIP. If you don't know how to do this, click Code at the top left of the site. Above the descriptions for the files to the right, there is another green box that says Code. Click it and press Download ZIP.
@@ -52,7 +62,7 @@ To add a socket to an item, use the numerical equivalent rune for the number of 
 In the event you have an item whose item level is too low for sockets or a specific rarity:
 - Item + Hel Rune = Item with `item level = 99`
 
-To change the rarity of an item, use the associated perfect gem color. Since there isn't a gold gem (Unique) and Normal and Superior Items are both white:
+To change the rarity of an item, use the associated perfect gem color. Since there isn't a gold gem (Unique) and Normal and Superior items are both white:
 - Item + Perfect Skull = Item with Normal Quality
 - Item + Perfect Diamond = Item with Superior Quality
 - Item + Perfect Sapphire = Item with Magic Quality
@@ -62,8 +72,9 @@ To change the rarity of an item, use the associated perfect gem color. Since the
 If you change an item quality to the same item quality it already has, this will effectively reroll the item.
 
 To change the tier of an item, use a Perfect Ruby.
-Normal Item + Perfect Ruby = Exceptional Item
-Exceptional Item + Perfect Ruby = Elite Item
+- Normal Item + Perfect Ruby = Exceptional Item
+- Exceptional Item + Perfect Ruby = Elite Item
+
 There is no way to downgrade, D2R doesn't seem to support this. If you need to go down a tier, you'll have to acquire that manually (I use Gambling).
 
 To make an item ethereal:
