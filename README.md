@@ -16,6 +16,12 @@ The unique small charm is obtained by cubing 1 stamina potion by itself. It give
 
 The purpose of the charm is for rushing/quest completing. You must toss it on the ground if you plan to use the character outside of the mod. If you try to load a character that has the charm with the unmodded game or another mod, the game will crash on load (or it just won't let you load that character, don't remember which happens). You will hit level 99 by the time you finish Hell using the rushing method.
 
+This mod contains status effect indicators for the Assassin's charge-up skills. They were made by Bonesey, taken from his D2RLoader application (I edited the textures slightly and changed the order of the icons). Full credits to him:
+- [D2R Modding Discord](https://discord.gg/gEshQt2dRT)
+- [D2R Modding Website](https://www.d2rmodding.com)
+
+If you do not want the status effect indicators, delete the `data/hd/overlays/` and `data/hd/vfx/` directories and their contents.
+
 ## How to Install
 1. Download as a ZIP. If you don't know how to do this, click Code at the top left of the site. Above the descriptions for the files to the right, there is another green box that says Code. Click it and press Download ZIP.
 2. Navigate to your D2R install.
