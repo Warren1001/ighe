@@ -58,7 +58,7 @@ To add a socket to an item, use the numerical equivalent rune for the number of 
 In the event you have an item whose item level is too low for sockets or a specific rarity:
 - Item + Hel Rune = Item with `item level = 99`
 
-To change the rarity of an item, use the associated perfect gem color. Since there isn't a gold gem (Unique) and Normal and Superior Items are both white:
+To change the rarity of an item, use the associated perfect gem color. Since there isn't a gold gem (Unique) and Normal and Superior items are both white:
 - Item + Perfect Skull = Item with Normal Quality
 - Item + Perfect Diamond = Item with Superior Quality
 - Item + Perfect Sapphire = Item with Magic Quality
@@ -68,8 +68,9 @@ To change the rarity of an item, use the associated perfect gem color. Since the
 If you change an item quality to the same item quality it already has, this will effectively reroll the item.
 
 To change the tier of an item, use a Perfect Ruby.
-Normal Item + Perfect Ruby = Exceptional Item
-Exceptional Item + Perfect Ruby = Elite Item
+- Normal Item + Perfect Ruby = Exceptional Item
+- Exceptional Item + Perfect Ruby = Elite Item
+
 There is no way to downgrade, D2R doesn't seem to support this. If you need to go down a tier, you'll have to acquire that manually (I use Gambling).
 
 To make an item ethereal:
