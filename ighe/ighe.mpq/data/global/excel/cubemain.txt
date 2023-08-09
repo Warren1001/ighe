@@ -227,8 +227,8 @@ downgrade uni to set	1				100					2	"any,uni"	gpg						"usetype,set"			100						
 																																																																																																									0
 upgrade norm to uni	1				100					2	"any,nor"	gpv						"usetype,uni"			100																										gpv																																																										0
 upgrade sup to uni	1				100					2	"any,hiq"	gpv						"usetype,uni"			100																										gpv																																																										0
-upgrade magic to uni					100					2	"any,mag"	gpv						"usetype,uni"			100																										gpv																																																										0
-upgrade rare to uni					100					2	"any,rar"	gpv						"usetype,uni"			100																										gpv																																																										0
+upgrade magic to uni	1				100					2	"any,mag"	gpv						"usetype,uni"			100																										gpv																																																										0
+upgrade rare to uni	1				100					2	"any,rar"	gpv						"usetype,uni"			100																										gpv																																																										0
 upgrade set to uni	1				100					2	"any,set"	gpv						"usetype,uni"			100																										gpv																																																										0
 reroll uni	1				100					2	"any,uni"	gpv						"usetype,uni"			100																										gpv																																																										0
 																																																																																																									0
@@ -245,9 +245,6 @@ socket 3 sup	1				100					2	"any,hiq,nos"	r03						useitem				sock			3	3								
 socket 4 sup	1				100					2	"any,hiq,nos"	r04						useitem				sock			4	4																					r04																																																										0
 socket 5 sup	1				100					2	"any,hiq,nos"	r05						useitem				sock			5	5																					r05																																																										0
 socket 6 sup	1				100					2	"any,hiq,nos"	r06						useitem				sock			6	6																					r06																																																										0
-																																																																																																									0
-socket 1 magic	1				100					2	"any,mag,nos"	r01						useitem				sock			1	1																					r01																																																										0
-socket 2 magic	1				100					2	"any,mag,nos"	r02						useitem				sock			2	2																					r02																																																										0
 																																																																																																									0
 socket 1 rare	1				100					2	"any,rar,nos"	r01						useitem				sock			1	1																					r01																																																										0
 socket 1 set	1				100					2	"any,set,nos"	r01						useitem				sock			1	1																					r01																																																										0
@@ -282,8 +279,8 @@ druid ele gc	1				100				dru	2	"lcha,mag"	r01						"usetype,mag,pre=492"			100		
 druid ss gc	1				100				dru	2	"lcha,mag"	r02						"usetype,mag,pre=491"			100																										r02																																																										0
 druid summon gc	1				100				dru	2	"lcha,mag"	r03						"usetype,mag,pre=490"			100																										r03																																																										0
 																																																																																																									0
-																																																																																																									0
-																																																																																																									0
+socket 1 magic	1				100					2	"any,mag,nos"	r01						useitem				sock			1	1																					r01																																																										0
+socket 2 magic	1				100					2	"any,mag,nos"	r02						useitem				sock			2	2																					r02																																																										0
 																																																																																																									0
 																																																																																																									0
 																																																																																																									0

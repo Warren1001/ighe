@@ -125,3 +125,8 @@ Blade Talons	btl
 Scissors Katar	skr
 Circlet	ci0
 Coronet	ci1
+Stag Bow	am1
+Reflex Bow	am2
+Maiden Spear	am3
+Maiden Pike	am4
+Maiden Javelin	am5

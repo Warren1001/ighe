@@ -35802,23 +35802,6 @@
     "zhCN": "\n%s\n%s\n恶狼印记:\n狼人攻击时会获得印记，持续 %s"
   },
   {
-    "id": 27374,
-    "Key": "SkillItemAuraOfDeath",
-    "enUS": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "zhTW": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "deDE": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "esES": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "frFR": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "itIT": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "koKR": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "plPL": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "esMX": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "jaJP": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "ptBR": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "ruRU": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:",
-    "zhCN": "\nEverything dies.\nHuge experience boost\nImmortality\nGrants Aura of Death while Equipped:"
-  },
-  {
     "id": 27375,
     "Key": "SkillnameAuraOfDeath",
     "enUS": "Aura of Death",
