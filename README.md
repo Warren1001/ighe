@@ -9,6 +9,9 @@ I tried my best to establish a pattern for cube recipes, here are the changes:
 - Added a bunch of cube recipes. All original cube recipes are untouched.
 - Added 1 unique small charm with hacky stuff on it.
 - You can teleport in town.
+- Unique, set, and runeword items all roll perfectly.
+- Superior modifiers all roll perfectly.
+  - Automods and affixes on magic, rare, and crafted items do not roll perfectly at the moment.
 
 The unique small charm is obtained by cubing 1 stamina potion by itself. It gives three things:
 - An Aura of Death. This Aura grants a massive amount of experience gained and instantly kills everything in a wide radius (a couple screens from you) every tick. It also makes you semi-immortal and grants a ton of movement speed and faster cast rate.
