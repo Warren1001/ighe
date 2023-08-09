@@ -5,6 +5,7 @@ I tried my best to establish a pattern for cube recipes, here are the changes:
 - Sell and buy values are drastically modified. Sell values are in the millions and buy values are close to 1.
 - New characters start with a Cube in their inventory. If a brand new character does not start with a Cube, the mod is not installed correctly.
 - Some vendors may sell different items than they usually do, I started work on changing what vendors sell a while back but didn't get too far and don't remember how much I've done.
+- Made more items gamble-able. Some might still be missing.
 - Added a bunch of cube recipes. All original cube recipes are untouched.
 - Added 1 unique small charm with hacky stuff on it.
 - You can teleport in town.
