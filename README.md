@@ -54,7 +54,7 @@ Now you use a combination of Gambling, Akara, and the Horadric Cube to get every
 
 For anything that is numerical, counting is done with runes. El Rune is 1. Eld Rune is 2. etc
 
-To add a socket to an item, use the numerical equivalent rune for the number of sockets you want on the item. If the recipe doesn't work, that item can't have that many sockets. Check the item level if you think it should.
+To add a socket to an unsocketed item, use the numerical equivalent rune for the number of sockets you want on the item. If the recipe doesn't work, that item can't have that many sockets. Check the item level if you think it should. Items that are already socketed cannot have their socket count modified.
 - Item + El Rune = Item with 1 Socket
 - Item + Eld Rune = Item with 2 Sockets
 - ...etc
