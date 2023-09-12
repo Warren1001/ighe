@@ -27,10 +27,10 @@ This mod contains status effect indicators for the Assassin's charge-up skills. 
 If you do not want the status effect indicators, delete the `data/hd/overlays/` and `data/hd/vfx/` directories and their contents. Note that the status effect indicators will also appear for Shadow Warrior/Master as well and follow her around beneath her.
 
 ## How to Install
-1. Download as a ZIP. If you don't know how to do this, click Code at the top left of the site. Above the descriptions for the files to the right, there is another green box that says Code. Click it and press Download ZIP.
+1. [Download the ZIP](https://github.com/Warren1001/ighe/archive/refs/heads/main.zip).
 2. Navigate to your D2R install.
 3. Navigate to the mods folder. If you do not have one, just create one. Your path should be `{D2R base folder}\mods`.
-4. Extract the `ighe` folder inside the `ighe-main` folder from the ZIP file  into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\ighe\ighe.mpq\...`.
+4. Extract the `ighe` folder inside the `ighe-main` folder from the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\ighe\ighe.mpq\...`. You do not need the rest of the files.
 5. Go to Battle.net and click the Gear Icon next to Play for D2R, then click Game Settings.
 6. Tick the box that is labeled `Additional command line arguments`.
 7. Paste the following into the text box that shows up: `-mod ighe -txt -enablerespec`. The `-enablerespec` option grants free respecs by Alt + Left Clicking on the stat point allocation buttons in the character screen. If you don't want this, just remove it. There is no way provided by the mod to easily acquire a Token of Absolution.
