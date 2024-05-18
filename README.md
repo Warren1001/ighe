@@ -5,11 +5,11 @@ I tried my best to establish a pattern for cube recipes, here are the changes:
 - Sell and buy values are drastically modified. Sell values are in the millions and buy values are close to 1.
 - New characters start with a Cube in their inventory. If a brand new character does not start with a Cube, the mod is not installed correctly.
 - Some vendors may sell different items than they usually do, I started work on changing what vendors sell a while back but didn't get too far and don't remember how much I've done.
-- Made more items gamble-able. Some might still be missing.
+- Made all item bases gamble-able.
 - Added a bunch of cube recipes. All original cube recipes are untouched.
 - Added 1 unique small charm with hacky stuff on it.
 - You can teleport in town.
-- Unique, set, and runeword items all roll perfectly.
+- Unique, set, runeword, and crafted (only the craft modifiers) items all roll perfectly.
 - Superior affixes all roll perfectly.
   - Automods and affixes on magic, rare, and crafted items do not roll perfectly at the moment.
 
@@ -91,5 +91,8 @@ Examples:
 - As a Sorceress: Magic Grand Charm + El Rune = New Magic Grand Charm with +1 to Cold Skills
 - As an Amazon: Magic Grand Charm + El Rune = New Magic Grand Charm with +1 to Javelin and Spear Skills
 
-There is no way currently to easily roll crafted items. I plan to make the recipes refund the materials and allow you to use the crafted item to roll again, but I'm lazy.
+For Crafted items, the recipe is the same however you only need the rune. The gem and the jewel are no longer needed. The recipe will return the rune for you to craft again.
+Additionally, you can use crafted items to re-roll the craft, so you don't need to keep getting magic items.
+Lastly, the item level of the crafted item is always the item level of the original item. The item level will never change. Character level no longer matters.
+
 There is no way to acquire specific Rare items or any other Magic items besides blindly rerolling. Consider using an external hero editor for this.
