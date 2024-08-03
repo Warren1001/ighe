@@ -91,8 +91,9 @@ Examples:
 - As a Sorceress: Magic Grand Charm + El Rune = New Magic Grand Charm with +1 to Cold Skills
 - As an Amazon: Magic Grand Charm + El Rune = New Magic Grand Charm with +1 to Javelin and Spear Skills
 
-For Crafted items, the recipe is the same however you only need the rune. The gem and the jewel are no longer needed. The recipe will return the rune for you to craft again.
+For Crafted items, the recipe is the same however you only need the rune and a Scroll of Identify. The gem and the jewel are no longer needed. The recipe will return the rune and scroll for you to craft again.
 Additionally, you can use crafted items to re-roll the craft, so you don't need to keep getting magic items.
 Lastly, the item level of the crafted item is always the item level of the original item. The item level will never change. Character level no longer matters.
+The original crafting recipes still exist.
 
 There is no way to acquire specific Rare items or any other Magic items besides blindly rerolling. Consider using an external hero editor for this.
