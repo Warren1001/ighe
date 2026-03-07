@@ -14,7 +14,7 @@ I tried my best to establish a pattern for cube recipes, here are the changes:
 - Made all item bases gamble-able.
 - Added a bunch of cube recipes. All original cube recipes are untouched.
 - Added 2 unique small charms with hacky stuff on it for rushing and testing purposes.
-- You can use a teleport clone provided by the two unique small charms in town and in Duriel's Chamber.
+- You can use the Teleport clone skill provided by the two cheat charms to teleport in town and in Duriel's Chamber.
 - You can carry as many unique charms without any restrictions.
 - Unique items can drop an unlimited amount of times per game instead of the usual limit of 1.
 - ~~Unique, set, runeword, and crafted (only the crafted modifiers) items all roll perfectly.~~ Removed, I will make a separate mod for this in the future.
