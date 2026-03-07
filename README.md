@@ -22,15 +22,15 @@ I tried my best to establish a pattern for cube recipes, here are the changes:
   - ~~Automods and affixes on magic, rare, and crafted (except for the crafted modifiers) items do not roll perfectly at the moment.~~
 
 New items:
-**Cheat Item - Death**:
-- Obtained by crafting a stamina potion by itself.
-- An Aura of Death while equipped, granting a massive amount of experience gained, debuffs all enemies forcing them to -100 Magic Resistance and applies 100,000 magic damage to everything within 50 yards (2 screens) every tick, and grants a ton of movement speed and faster cast rate.
-- Teleport Clone. This is not the same Teleport that Sorceress has, though it functions the exact same way.
-- Summon Diablo. This will literally summon Diablo on top of you. This is to streamline the rushing of a new character. This will be explained in more detail below.
-**Cheat Item - Immortality**:
-- Obtained by crafting an antidote potion by itself.
-- An Aura of Immortality while equipped, granting psuedo immortality (extremely high life regeneration every tick, immediately clearing poison damage, 100,000 damage reduction and magic damage reduction, and 500% Poison Resist). I'm not yet sure how to make someone fully immune to poison damage as it ignores damage reduction.
-- Teleport Clone. This is not the same Teleport that Sorceress has, though it functions the exact same way.
+- **Cheat Item - Death**:
+  - Obtained by crafting a stamina potion by itself.
+  - An Aura of Death while equipped, granting a massive amount of experience gained, debuffs all enemies forcing them to -100 Magic Resistance and applies 100,000 magic damage to everything within 50 yards (2 screens) every tick, and grants a ton of movement speed and faster cast rate.
+  - Teleport Clone. This is not the same Teleport that Sorceress has, though it functions the exact same way.
+  - Summon Diablo. This will literally summon Diablo on top of you. This is to streamline the rushing of a new character. This will be explained in more detail below.
+- **Cheat Item - Immortality**:
+  - Obtained by crafting an antidote potion by itself.
+  - An Aura of Immortality while equipped, granting psuedo immortality (extremely high life regeneration every tick, immediately clearing poison damage, 100,000 damage reduction and magic damage reduction, and 500% Poison Resist). I'm not yet sure how to make someone fully immune to poison damage as it ignores damage reduction.
+  - Teleport Clone. This is not the same Teleport that Sorceress has, though it functions the exact same way.
 
 These two items **must** be dropped before uninstalling/unloading the mod or else your unmodded game will crash while loading.
 
