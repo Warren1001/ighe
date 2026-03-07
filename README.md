@@ -51,9 +51,9 @@ The purpose of the Immortality charm is for testing purposes. The aura will shar
 Using an external hero editor makes this process much easier, but if you can't be bothered (some editors don't give you the proper stat values based on your character and level, so I just do it in-game), then there's a way to get to Hell and level 99 very quickly.
 1. Go to Akara and sell one of your scrolls you start with. Buy something worth 1 gold. Sell that. Now you have infinite gold. Buy a Stamina Potion, Antidote Potion, and an El Rune.
 2. Cube the Stamina Potion by itself. This is the Death charm. Cube the Antidote potion by itself. This is the Immortality charm. Read above for more information about these charms.
-3. Cube the El Rune by itself. This will open a portal to Andariel. Walk in, walk out, she will die from the portal location, you don't need to get close to her.
+3. Cube the El Rune by itself. This will open a portal to Andariel. Teleport near her, then teleport back to the portal and go back to town.
 4. Go to Act 2. Cube the Eld Rune by itself. Go in portal. Duriel is dead. Teleport to Tyrael (you can teleport through the walls with this mod). Go to town and talk to Jerhyn, Meshif, etc.
-5. Go to Act 3. Cube the Tir Rune by itself. Go in portal. Count to three. Teleport on the Hell Gate and go through it.
+5. Go to Act 3. Cube the Tir Rune by itself. Go in portal. Walk closer to Mephisto until he's dead then go through the Hell Gate.
 6. Cube the Nef Rune by itself. Go in portal. Select the Summon Diablo skill. Cast it. Go back to town and talk to Tyrael.
 7. Cube the Eth Rune by itself. Go in portal. Exit the game. Go to Nightmare and start from Step 3 again.
 
@@ -72,6 +72,9 @@ To add a socket to an unsocketed item, use the numerical equivalent rune for the
 
 In the event you have an item whose item level is too low for sockets or a specific rarity:
 - Item + Hel Rune = Item with `item level = 99`
+
+If you want to remove the sockets of an item without destroying them:
+- Socketed Item + Hel Rune + Scroll of Identify = Open Socketed Item + Socket Items
 
 To change the rarity of an item, use the associated perfect gem color. Since there isn't a gold gem (Unique) and Normal and Superior items are both white:
 - Item + Perfect Skull = Item with Normal Quality
@@ -101,10 +104,22 @@ The numerical order is based on the order of the skill tabs on the skill tree in
 Examples:
 - As a Sorceress: Magic Grand Charm + El Rune = New Magic Grand Charm with +1 to Cold Skills
 - As an Amazon: Magic Grand Charm + El Rune = New Magic Grand Charm with +1 to Javelin and Spear Skills
+- As a Warlock: Magic Grand Charm + Tir Rune = New Magic Grand Charm with +1 to Demon Skills
+
+### Sunder Charms
+
+New recipes are the original recipes without the shards needed.
+The materials will be refunded allowing you to craft again.
+A Renewed Sunder charm can be used to craft itself again using the same ingredients as the Latent recipe.
+Additionally, once you have a Renewed Sunder charm, you can also use the Unique recipe (Perfect Amethyst) to reroll into any Renewed Sunder charm.
 
 For Crafted items, the recipe is the same however you only need the rune and a Scroll of Identify. The gem and the jewel are no longer needed. The recipe will return the rune and scroll for you to craft again.
 Additionally, you can use crafted items to re-roll the craft, so you don't need to keep getting magic items.
 Lastly, the item level of the crafted item is always the item level of the original item. The item level will never change. Character level no longer matters.
 The original crafting recipes still exist.
+
+### Colossal Jewels
+
+Akara sells two jewels. The one closest to the runes is the normal jewel. The other one is the colossal jewel base. You can craft Colossal Jewels using the Unique recipe (Perfect Amethyst).
 
 There is no way to acquire specific Rare items or any other Magic items besides blindly rerolling. Consider using an external hero editor for this.
