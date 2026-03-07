@@ -166,3 +166,8 @@ Maiden Pike	am4
 Maiden Javelin	am5
 Amulet	amu
 Ring	rin
+Old Book	wa1
+Tome	wa2
+Codex	wa3
+Compendium	wa4
+Grimoire 	wa5
