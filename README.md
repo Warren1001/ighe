@@ -114,13 +114,15 @@ The materials will be refunded allowing you to craft again.
 A Renewed Sunder charm can be used to craft itself again using the same ingredients as the Latent recipe.
 Additionally, once you have a Renewed Sunder charm, you can also use the Unique recipe (Perfect Amethyst) to reroll into any Renewed Sunder charm.
 
+### Colossal Jewels
+
+Akara sells two jewels. The one closest to the runes is the normal jewel. The other one is the colossal jewel base. You can craft Colossal Jewels using the Unique recipe (Perfect Amethyst) with the colossal jewel base.
+
+### Other
+
 For Crafted items, the recipe is the same however you only need the rune and a Scroll of Identify. The gem and the jewel are no longer needed. The recipe will return the rune and scroll for you to craft again.
 Additionally, you can use crafted items to re-roll the craft, so you don't need to keep getting magic items.
 Lastly, the item level of the crafted item is always the item level of the original item. The item level will never change. Character level no longer matters.
 The original crafting recipes still exist.
-
-### Colossal Jewels
-
-Akara sells two jewels. The one closest to the runes is the normal jewel. The other one is the colossal jewel base. You can craft Colossal Jewels using the Unique recipe (Perfect Amethyst).
 
 There is no way to acquire specific Rare items or any other Magic items besides blindly rerolling. Consider using an external hero editor for this.
