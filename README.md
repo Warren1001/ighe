@@ -24,7 +24,7 @@ I tried my best to establish a pattern for cube recipes, here are the changes:
 New items:
 - **Cheat Item - Death**:
   - Obtained by crafting a stamina potion by itself.
-  - An Aura of Death while equipped, granting a massive amount of experience gained, debuffs all enemies forcing them to -100 Magic Resistance and applies 100,000 magic damage to everything within 50 yards (2 screens) every tick, and grants a ton of movement speed and faster cast rate.
+  - An Aura of Death while equipped, granting a massive amount of experience gained, debuffs all enemies forcing them to -100 Magic Resistance and applies 100,000 magic damage to everything within 40 yards (~1 screen) every tick, and grants a ton of movement speed and faster cast rate. Game crashes on Mephisto if I set the range any higher.
   - Teleport Clone. This is not the same Teleport that Sorceress has, though it functions the exact same way.
   - Summon Diablo. This will literally summon Diablo on top of you. This is to streamline the rushing of a new character. This will be explained in more detail below.
 - **Cheat Item - Immortality**:
