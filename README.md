@@ -1,5 +1,11 @@
 # In-game Hero Editor for D2R
 
+The purpose of this mod is to have an in-game testing tool that is significantly more convenient for item generation than an external hero editor. It remains as close to unmodded as possible, modifying nothing existing, and only adding new mechanics. With that said, some things have to be altered to make features of this mod possible:
+- All monsters are capable of dropping Latent Sunders if a grand charm rolls unique.
+- Items not usually sold by Akara added by this mod may display weirdly in the vendor screen and after buying them, but they should work all the same.
+
+It is important to note that items found naturally while playing with this mod will still contribute to your Chronicle. You won't get banned if you accidentally log into online with the mod, but several things won't work correctly and give you errors, such as vendoring.
+
 I tried my best to establish a pattern for cube recipes, here are the changes:
 - Akara's Misc page has a lot of items for sale.
 - Sell and buy values are drastically modified. Sell values are in the millions and buy values are close to 1.
@@ -7,24 +13,29 @@ I tried my best to establish a pattern for cube recipes, here are the changes:
 - Some vendors may sell different items than they usually do, I started work on changing what vendors sell a while back but didn't get too far and don't remember how much I've done.
 - Made all item bases gamble-able.
 - Added a bunch of cube recipes. All original cube recipes are untouched.
-- Added 1 unique small charm with hacky stuff on it.
-- You can teleport in town.
-- Unique, set, runeword, and crafted (only the crafted modifiers) items all roll perfectly.
-- Superior affixes all roll perfectly.
-  - Automods and affixes on magic, rare, and crafted (except for the crafted modifiers) items do not roll perfectly at the moment.
+- Added 2 unique small charms with hacky stuff on it for rushing and testing purposes.
+- You can use a teleport clone provided by the two unique small charms in town and in Duriel's Chamber.
+- You can carry as many unique charms without any restrictions.
+- Unique items can drop an unlimited amount of times per game instead of the usual limit of 1.
+- ~~Unique, set, runeword, and crafted (only the crafted modifiers) items all roll perfectly.~~ Removed, I will make a separate mod for this in the future.
+- ~~Superior affixes all roll perfectly.~~
+  - ~~Automods and affixes on magic, rare, and crafted (except for the crafted modifiers) items do not roll perfectly at the moment.~~
 
-The unique small charm is obtained by cubing 1 stamina potion by itself. It gives three things:
-- An Aura of Death. This Aura grants a massive amount of experience gained and instantly kills everything in a wide radius (a couple screens from you) every tick. It also makes you semi-immortal and grants a ton of movement speed and faster cast rate.
-- Teleport. This is not the same Teleport that Sorceress has, though it functions the exact same way.
+New items:
+**Cheat Item - Death**:
+- Obtained by crafting a stamina potion by itself.
+- An Aura of Death while equipped, granting a massive amount of experience gained, debuffs all enemies forcing them to -100 Magic Resistance and applies 100,000 magic damage to everything within 50 yards (2 screens) every tick, and grants a ton of movement speed and faster cast rate.
+- Teleport Clone. This is not the same Teleport that Sorceress has, though it functions the exact same way.
 - Summon Diablo. This will literally summon Diablo on top of you. This is to streamline the rushing of a new character. This will be explained in more detail below.
+**Cheat Item - Immortality**:
+- Obtained by crafting an antidote potion by itself.
+- An Aura of Immortality while equipped, granting psuedo immortality (extremely high life regeneration every tick, immediately clearing poison damage, 100,000 damage reduction and magic damage reduction, and 500% Poison Resist). I'm not yet sure how to make someone fully immune to poison damage as it ignores damage reduction.
+- Teleport Clone. This is not the same Teleport that Sorceress has, though it functions the exact same way.
 
-The purpose of the charm is for rushing/quest completing. You must toss it on the ground if you plan to use the character outside of the mod. If you try to load a character that has the charm with the unmodded game or another mod, the game will crash on load (or it just won't let you load that character, don't remember which happens). You will hit level 99 by the time you finish Hell using the rushing method. Please note that "loading a character" means launching the game, as all characters are loaded when the game launches. So your game will crash on load if it tries to load the hacky charm without the mod. You won't get banned if you log into online with the mod, but several things won't work correctly and give you errors, such as vendoring.
+These two items **must** be dropped before uninstalling/unloading the mod or else your unmodded game will crash while loading.
 
-This mod contains status effect indicators for the Assassin's charge-up skills. They were made by Bonesy, taken from his D2RLaunch application (which has some other cool stuff, check it out). I edited the textures slightly and changed the order of the icons for this mod. Full credits to him:
-- [D2R Modding Discord](https://discord.gg/gEshQt2dRT)
-- [D2R Modding Website](https://www.d2rmodding.com)
-
-If you do not want the status effect indicators, delete the `data/hd/overlays/` and `data/hd/vfx/` directories and their contents. Note that the status effect indicators will also appear for Shadow Warrior/Master as well and follow her around beneath her.
+The purpose of the Death charm is for rushing/quest completing. You will hit level 99 by the time you finish Hell using the rushing method. Please note that "loading a character" means launching the game, as all characters are loaded when the game launches. So your game will crash on load if it tries to load the hacky charm without the mod.
+The purpose of the Immortality charm is for testing purposes. The aura will share with allied units within 50 yeards (2 screens).
 
 ## How to Install
 1. [Download the ZIP](https://github.com/Warren1001/ighe/archive/refs/heads/main.zip).
@@ -38,13 +49,13 @@ If you do not want the status effect indicators, delete the `data/hd/overlays/` 
 ## How to Get a Character Started
 
 Using an external hero editor makes this process much easier, but if you can't be bothered (some editors don't give you the proper stat values based on your character and level, so I just do it in-game), then there's a way to get to Hell and level 99 very quickly.
-1. Go to Akara and sell one of your scrolls you start with. Buy something worth 1 gold. Sell that. Now you have infinite gold. Buy a Stamina Potion and an El Rune.
-2. Cube the Stamina Potion by itself. This is the unique small charm. Read above for more information about it.
+1. Go to Akara and sell one of your scrolls you start with. Buy something worth 1 gold. Sell that. Now you have infinite gold. Buy a Stamina Potion, Antidote Potion, and an El Rune.
+2. Cube the Stamina Potion by itself. This is the Death charm. Cube the Antidote potion by itself. This is the Immortality charm. Read above for more information about these charms.
 3. Cube the El Rune by itself. This will open a portal to Andariel. Walk in, walk out, she will die from the portal location, you don't need to get close to her.
-4. Go to Act 2. Cube the Eld Rune by itself. Go in portal. Duriel is dead. Teleport to Tyrael. Go to town and talk to Jerhyn, Meshif, etc.
+4. Go to Act 2. Cube the Eld Rune by itself. Go in portal. Duriel is dead. Teleport to Tyrael (you can teleport through the walls with this mod). Go to town and talk to Jerhyn, Meshif, etc.
 5. Go to Act 3. Cube the Tir Rune by itself. Go in portal. Count to three. Teleport on the Hell Gate and go through it.
-6. Cube whatever rune is next by itself. Go in portal. Select the Summon Diablo skill. Cast it. Go back to town and talk to Tyrael.
-7. Cube whatever rune is next by itself. Go in portal. Exit the game. Go to Nightmare and start from Step 3 again.
+6. Cube the Nef Rune by itself. Go in portal. Select the Summon Diablo skill. Cast it. Go back to town and talk to Tyrael.
+7. Cube the Eth Rune by itself. Go in portal. Exit the game. Go to Nightmare and start from Step 3 again.
 
 Once you get into Hell, you should be level 99. If you wanted to be a lower level, sucks to suck, just use an external hero editor.
 
