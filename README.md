@@ -44,7 +44,7 @@ The purpose of the Immortality charm is for testing purposes. The aura will shar
 4. Extract the `ighe` folder inside the `ighe-main` folder from the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\ighe\ighe.mpq\...`. You do not need the rest of the files.
 5. Go to Battle.net and click the Gear Icon next to Play for D2R, then click Game Settings.
 6. Tick the box that is labeled `Additional command line arguments`.
-7. Paste the following into the text box that shows up: `-mod ighe -txt -enablerespec`. The `-enablerespec` option grants free respecs by Alt + Left Clicking on the stat point allocation buttons in the character screen. If you don't want this, just remove it. There is no way provided by the mod to easily acquire a Token of Absolution.
+7. Paste the following into the text box that shows up: `-mod ighe -txt -enablerespec`. The `-enablerespec` option grants free respecs by Alt + Left Clicking on the stat point allocation buttons in the character screen (only if you've allocated points to that stat). If you don't want this, just remove it.
 8. When updating this mod, **do not** drag and drop the mod files and replace the old ones. Delete the old mod folder entirely before installing a new version.
 
 ## How to Get a Character Started
