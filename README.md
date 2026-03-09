@@ -38,7 +38,7 @@ The purpose of the Death charm is for rushing/quest completing. You will hit lev
 The purpose of the Immortality charm is for testing purposes. The aura will share with allied units within 50 yeards (2 screens).
 
 ## How to Install
-1. [Download the ZIP](https://github.com/Warren1001/ighe/archive/refs/heads/main.zip).
+1. [Download the ZIP](https://github.com/Warren1001/ighe/archive/refs/tags/v2.0.0.zip).
 2. Navigate to your D2R install.
 3. Navigate to the mods folder. If you do not have one, just create one. Your path should be `{D2R base folder}\mods`.
 4. Extract the `ighe` folder inside the `ighe-main` folder from the ZIP file into the mods folder. If you've done it correctly, you should see a path similar to `{D2R base folder}\mods\ighe\ighe.mpq\...`. You do not need the rest of the files.
