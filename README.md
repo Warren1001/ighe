@@ -56,7 +56,7 @@ Using an external hero editor makes this process much easier, but if you can't b
 4. Go to Act 2. Cube the Eld Rune by itself. Go in portal. Duriel is dead. Teleport to Tyrael (you can teleport through the walls with this mod). Go to town and talk to Jerhyn, Meshif, etc.
 5. Go to Act 3. Cube the Tir Rune by itself. Go in portal. Walk closer to Mephisto until he's dead then go through the Hell Gate.
 6. Cube the Nef Rune by itself. Go in portal. Select the Summon Diablo skill. Cast it. Go back to town and talk to Tyrael.
-7. Cube the Eth Rune by itself. Go in portal. Exit the game. Go to Nightmare and start from Step 3 again.
+7. Cube the Eth Rune by itself. Go in portal. Teleport to Baal. He's dead. Exit the game. Go to Nightmare and start from Step 3 again.
 
 Once you get into Hell, you should be level 99. If you wanted to be a lower level, sucks to suck, just use an external hero editor.
 
