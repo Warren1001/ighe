@@ -34,7 +34,7 @@ New items:
 
 These two items **must** be dropped before uninstalling/unloading the mod or else your unmodded game will crash while loading.
 
-The purpose of the Death charm is for rushing/quest completing. You will hit level 99 by the time you finish Hell using the rushing method. Please note that "loading a character" means launching the game, as all characters are loaded when the game launches. So your game will crash on load if it tries to load the hacky charm without the mod.
+The purpose of the Death charm is for rushing/quest completing. You will hit level 99 by the time you finish Hell using the rushing method.
 The purpose of the Immortality charm is for testing purposes. The aura will share with allied units within 50 yeards (2 screens).
 
 ## How to Install
