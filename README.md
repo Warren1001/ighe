@@ -35,7 +35,7 @@ New items:
 These two items **must** be dropped before uninstalling/unloading the mod or else your unmodded game will crash while loading.
 
 The purpose of the Death charm is for rushing/quest completing. You will hit level 99 by the time you finish Hell using the rushing method.
-The purpose of the Immortality charm is for testing purposes. The aura will share with allied units within 50 yeards (2 screens).
+The purpose of the Immortality charm is for testing purposes. The aura will share with allied units within 50 yards (2 screens).
 
 ## How to Install
 1. [Download the ZIP](https://github.com/Warren1001/ighe/archive/refs/tags/v2.0.0.zip).
