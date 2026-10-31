@@ -1,3 +1,7 @@
+# Moving project to repository: https://github.com/Warren1001/d2mods
+
+## No longer maintaining this version or this repository
+
 # In-game Hero Editor for D2R
 
 The purpose of this mod is to have an in-game testing tool that is significantly more convenient for item generation than an external hero editor. It remains as close to unmodded as possible, modifying nothing existing, and only adding new mechanics. With that said, some things have to be altered to make features of this mod possible:
